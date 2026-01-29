@@ -1,0 +1,2 @@
+{ "working_directory": "/home/kavia/workspace/code-generation",
+ "command": "cd recipes-206866 && source venv/bin/activate && pytest" }
